@@ -12,6 +12,6 @@ Figma Project Brief:
 https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3%3A-From-Homeland-to-Homeland-%7C-desktop-%2B-mobile?node-id=0%3A1
 
 Published Project on GitHub:
-LINK
+https://lwtech20.github.io/web_project_3/
 
 -
