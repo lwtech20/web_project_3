@@ -4,7 +4,7 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
-  height: 740px;
+  min-height: 740px;
   justify-content: center;
   position: relative;
   width: calc(100% - 2 * 48px);
@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 768px) {
   .cover {
-    max-height: 746px;
+    min-height: 746px;
     width: 100%;
   }
 }
@@ -41,6 +41,6 @@
   .cover {
     display: flex;
     justify-content: center;
-    max-height: 254px;
+    min-height: 254px;
   }
 }
