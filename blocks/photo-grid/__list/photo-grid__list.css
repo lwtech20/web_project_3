@@ -21,5 +21,6 @@
   .photo-grid__list {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(8, 1fr);
+    max-width: 288px;
   }
 }
